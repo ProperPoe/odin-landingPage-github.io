@@ -99,3 +99,41 @@
 .info-text {
     font-size: 18px;
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+    height: 500PX;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container .quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /*margin: 0 300px;*/
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.quote-container .quote p {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: lighter;
+}
+.quote-container .quote .quote-author {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.signup-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-container .action-card{
+
+}
