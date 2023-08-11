@@ -1,1 +1,1 @@
-# A landing page assignment for The Odin Project.
+## A landing page assignment for The Odin Project.
