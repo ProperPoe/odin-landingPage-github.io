@@ -71,6 +71,7 @@
 
 .header-card-container .sign-up-card button{
     background-color: #3882F6;
+    border: none;
     border-radius: 10px;
     color: white;
     font-weight: bolder;
